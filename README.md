@@ -1,4 +1,4 @@
-# My Project(90.21% Accuracy)
+# My Project(65.21% Accuracy)
 
 # Facial Expression Recognition with CNN
 
